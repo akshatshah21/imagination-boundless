@@ -5,7 +5,7 @@ draft: false
 categories: ["poetry"]
 tags: ["poetry", "mind", "thoughts"]
 summary: "It skips down the lane of past..."
-authorLink: "https://akshatshah21.github.io"
+authorLink: "https://akshatshah21.github.io/imagination-boundless"
 ---
 
 It skips down the lane of past  

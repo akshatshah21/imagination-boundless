@@ -5,7 +5,7 @@ draft: false
 categories: ["poetry"]
 tags: ["poetry", "thoughts", "hope"]
 summary: "In the desert, she is stranded..."
-authorLink: "https://akshatshah21.github.io"
+authorLink: "https://akshatshah21.github.io/imagination-boundless"
 ---
 
 In the desert, she is stranded  
