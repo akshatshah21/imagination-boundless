@@ -541,7 +541,7 @@ theme = "LoveIt"
     pre = ""
     post = ""
     name = "About"
-    url = "/about/"
+    url = "https://akshatshah21.github.io/about/"
     title = "About Akshat"
     weight = 1
   [[menu.main]]
